@@ -15,4 +15,4 @@ CONTRIBUTION AND SUPPORT
 If you feel this project has helped you, you can leave an appreciation of thanks and pass down your work to the future batches. Our work will always be open sourced for the unprivelleged and resourceful few who managed to find their way here.
 *********************************************************************************************************************************
 
-- a disgruntled student who made past this course
+-From a disgruntled student who made past this course. Don't lose hope!
