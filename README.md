@@ -1,7 +1,7 @@
 # README
 
 *********************************************************************************************************************************
-WHAT IS THIS?
+#WHAT IS THIS?#
 YOU HAVE REACHED THIS PAGE BECAUSE YOU SEARCHED FOR IT AND YOU KNOW WHAT YOU WANT. IF YOU CHANCED ACROSS THIS WORK WITHOUT KNOWING WHAT IT IS ABOUT, LEAVE NOW. THIS PROJECT IS NOT MEANT FOR YOU!
 *********************************************************************************************************************************
 
@@ -12,7 +12,7 @@ This project is created after tremendous efforts from working on the ridiculous 
 
 *********************************************************************************************************************************
 CONTRIBUTION AND SUPPORT
-If you feel this project has helped you, you can leave an appreciation of thanks and pass down your work to the future batches. Our work will always be open sourced for the unprivelleged and resourceful few who managed to find their way here.
+If you feel this project has benefited you, you can leave an appreciation of thanks and pass down your work to the future batches. Our work will always be open sourced for the unprivelleged and resourceful few who managed to find their way here.
 *********************************************************************************************************************************
 
 -From a disgruntled student who made past this course. Don't lose hope!
